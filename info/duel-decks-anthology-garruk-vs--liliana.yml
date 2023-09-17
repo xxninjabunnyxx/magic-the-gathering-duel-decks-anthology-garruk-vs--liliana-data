@@ -1,0 +1,15 @@
+---
+object: set
+id: db352daa-9827-44ca-ba19-511969a97689
+code: gvl
+name: 'Duel Decks Anthology: Garruk vs. Liliana'
+uri: https://api.scryfall.com/sets/db352daa-9827-44ca-ba19-511969a97689
+scryfall_uri: https://scryfall.com/sets/gvl
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Agvl&unique=prints
+released_at: '2014-12-05'
+set_type: duel_deck
+card_count: 63
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddd.svg?1694404800

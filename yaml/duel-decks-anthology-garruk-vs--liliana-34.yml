@@ -1,0 +1,111 @@
+---
+object: card
+id: dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63
+oracle_id: 90a4c5ed-d268-4216-9b55-0a38406efd74
+multiverse_ids:
+- 393897
+tcgplayer_id: 93711
+cardmarket_id: 269997
+name: Ghost-Lit Stalker
+lang: en
+released_at: '2014-12-05'
+uri: https://api.scryfall.com/cards/dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63
+scryfall_uri: https://scryfall.com/card/gvl/34/ghost-lit-stalker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63.jpg?1562947729
+  normal: https://cards.scryfall.io/normal/front/d/d/dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63.jpg?1562947729
+  large: https://cards.scryfall.io/large/front/d/d/dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63.jpg?1562947729
+  png: https://cards.scryfall.io/png/front/d/d/dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63.png?1562947729
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63.jpg?1562947729
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63.jpg?1562947729
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Creature — Spirit
+oracle_text: |-
+  {4}{B}, {T}: Target player discards two cards. Activate only as a sorcery.
+  Channel — {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate only as a sorcery.
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Channel
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: db352daa-9827-44ca-ba19-511969a97689
+set: gvl
+set_name: 'Duel Decks Anthology: Garruk vs. Liliana'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/db352daa-9827-44ca-ba19-511969a97689
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agvl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gvl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A90a4c5ed-d268-4216-9b55-0a38406efd74&unique=prints
+collector_number: '34'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Hideaki Takamura
+artist_ids:
+- 49b6270b-1b28-4e03-b503-522f97dc3a78
+illustration_id: b88f2bf5-13fa-4645-b1c6-ad2c66b5d89e
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 17204
+penny_rank: 4409
+prices:
+  usd: '0.13'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.09'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393897
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ghost-Lit+Stalker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ghost-Lit+Stalker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ghost-Lit+Stalker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93711?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ghost-Lit+Stalker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ghost-Lit+Stalker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
